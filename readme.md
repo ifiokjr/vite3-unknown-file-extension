@@ -10,10 +10,10 @@ At this point you'll notice the `dist` folders is created in `packages/simple`. 
 
 ## Expected
 
-There is a vite app built with react in the `/react` folder. It imports from the `simple` package in `react/src/App.tsx`. Running the following command works fine.
+There is a svelte app built with vite in the `/svelte` folder. It imports from the `simple` package in `svelte/src/App.svelte`. Running the following command works fine.
 
 ```bash
-cd react
+cd svelte
 pnpm dev
 ```
 
