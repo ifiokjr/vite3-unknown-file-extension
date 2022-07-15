@@ -1,0 +1,6 @@
+packages:
+  - '.monots/scripts'
+  - 'packages/*'
+  - 'react'
+  - 'sveltekit'
+  - 'sveltekit-previous'
